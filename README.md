@@ -74,10 +74,8 @@ Then visit `http://localhost:8000`
 ## Screenshots
 
 | Desktop | Tablet | Mobile |
-|---------|--------|--------|
-| *Desktop* <img width="1082" height="525" alt="Davivy Perfumes - Desktop" src="https://github.com/user-attachments/assets/ce5e0508-b734-496e-bad7-b5adf8ecc68a" />|
-|*Tablet* <img width="794" height="546" alt="Davivy Perfumes - Tablet" src="https://github.com/user-attachments/assets/145e8dca-f891-43ca-bacb-5c159b4267cb" />|
-|*Mobile* <img width="402" height="546" alt="Davivy Perfumes - Mobile" src="https://github.com/user-attachments/assets/6462a26b-c440-45f5-970f-894ab1e9bdfd" />|
+|<img width="1082" height="525" alt="Davivy Perfumes - Desktop" src="https://github.com/user-attachments/assets/ce5e0508-b734-496e-bad7-b5adf8ecc68a" />|<img width="794" height="546" alt="Davivy Perfumes - Tablet" src="https://github.com/user-attachments/assets/145e8dca-f891-43ca-bacb-5c159b4267cb" />|<img width="402" height="546" alt="Davivy Perfumes - Mobile" src="https://github.com/user-attachments/assets/6462a26b-c440-45f5-970f-894ab1e9bdfd" />|
+
 ---
 
 ## Key Decisions
