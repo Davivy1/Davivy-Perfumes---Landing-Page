@@ -69,8 +69,6 @@ Then visit `http://localhost:8000`
 
 ### Option 3: Deploy
 - **GitHub Pages:** Push to a GitHub repo and enable Pages in settings
-- **Netlify:** Drag and drop the project folder into [Netlify Drop](https://app.netlify.com/drop)
-- **Vercel:** Use `vercel --prod` CLI or import from GitHub
 
 ---
 
