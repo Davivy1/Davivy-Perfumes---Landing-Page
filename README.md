@@ -8,7 +8,7 @@ A professional, fully responsive landing page for **Davivy**, a luxury perfume b
 
 Davivy is a mock luxury perfume e-commerce landing page designed to showcase modern frontend development skills. The page features a sophisticated dark-and-gold aesthetic, smooth animations, and a fully responsive layout that adapts seamlessly across mobile, tablet, and desktop devices.
 
-**Live Demo:** [Add your deployed link here (Netlify/Vercel/GitHub Pages)]
+**Live Demo:** https://davivy1.github.io/Davivy-Perfumes---Landing-Page/
 
 ---
 
@@ -51,10 +51,9 @@ davivy-landing-page/
 ## Setup Instructions
 
 ### Option 1: Open Locally
-1. Download or clone the repository
-2. Open `index.html` directly in your browser
+Open `index.html` directly in your browser
 
-### Option 2: Local Server (Recommended)
+### Option 2: Local Server 
 ```bash
 # Using Python 3
 python -m http.server 8000
@@ -76,13 +75,10 @@ Then visit `http://localhost:8000`
 
 | Desktop | Tablet | Mobile |
 |---------|--------|--------|
-| *(Add desktop screenshot here)* | *(Add tablet screenshot here)* | *(Add mobile screenshot here)* |
-
-> **Note:** Take screenshots at the following breakpoints:
-> - **Desktop:** 1440px+
-> - **Tablet:** 768px
-> - **Mobile:** 375px
-
+| *Desktop* <img width="1082" height="525" alt="Davivy Perfumes - Desktop" src="https://github.com/user-attachments/assets/ce5e0508-b734-496e-bad7-b5adf8ecc68a" />
+|*Tablet* <img width="794" height="546" alt="Davivy Perfumes - Tablet" src="https://github.com/user-attachments/assets/145e8dca-f891-43ca-bacb-5c159b4267cb" />
+|*Mobile* <img width="402" height="546" alt="Davivy Perfumes - Mobile" src="https://github.com/user-attachments/assets/6462a26b-c440-45f5-970f-894ab1e9bdfd" />
+|
 ---
 
 ## Key Decisions
@@ -113,4 +109,4 @@ This project was built for educational purposes as part of a Frontend Developer 
 
 ---
 
-**Built with passion by [Your Name]**
+**Built with passion by David Ibekwe**
